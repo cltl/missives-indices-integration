@@ -1,0 +1,40 @@
+<matchTest>
+        <page n="474">
+          <matchTerms><terms>
+          <term matched="true" type="location">Bandjarmasin, Koning van</term>
+        </terms></matchTerms>
+            <content> 474 Van
+                <name matchType="local" type="person" norm="Hoorn, Joan van" distance="0">Hoorn,</name>
+                Van Riebeeck, Van
+                <name matchType="global" type="person" norm="Swoll, Christoffel van" distance="100">Swoll,</name>
+                enz. XX, 9 november 1707 XX.
+                <name matchType="multiWord" type="person" norm="Hoorn, Joan van">JOAN VAN HOORN,</name>
+                ABRAHAM VAN RIEBEECK, CHRISTOFFEL VAN
+                <name matchType="global" type="person" norm="Swoll, Christoffel van" distance="100">SWOLL,</name>
+                <name matchType="local" type="location" norm="Batavia" distance="0">BATAVIA</name>
+                9 november 1707. Kol. Arch. 1626, fol. 7-32. Inmiddens is ’t gebeurt, dat sekeren Engelsman, genaamt m.r
+                <name matchType="multiWord" type="person" norm="Cuningham, James">James Cuningham,</name>
+                uj^t de massacre dier natie anno 1705 tot Poulo
+                <name matchType="local" type="location" norm="Kondor, Pulau" distance="2">Condoor</name>
+                en na
+                <name matchType="local" type="location" norm="Cochin-China" distance="0">Cochin-China</name>
+                of
+                <name matchType="local" type="location" norm="Quinam" distance="0">Quinam</name>
+                gevangen geraekt, van daar op den 12 april deses jaars met een onser ingesetenen vaartuygen hier overgekomen en miraculeuslijk in ’t leven gebleven is.
+            </content>
+        </page><page n="475">
+          <matchTerms><terms>
+          <term matched="true" type="location">Batavia</term><term matched="true" type="location">Bengalen</term>
+        </terms></matchTerms>
+    <content> Van de vijf inlanders, van Nova
+        <name matchType="global" type="location" norm="Guinea, Kust van" distance="100">Guinea</name>
+        herwaarts 3) overgebragt, - zijn er t’zedert drie van het eyland
+        <name matchType="local" type="location" norm="Edam (Eiland)" distance="0">Edam,</name>
+        ...
+        <name matchType="multiWord" type="person" norm="Geel, Pieter">Pieter Geel</name>
+        per ’t schip Barnevelt als matroosen met 9 guld.8 ieder en onder opsigt van schipper
+        <name matchType="multiWord" type="person" norm="Hage, Adolph">Adolph Hage</name>
+        voor een keer tot Uw Hoog Ed.11** te laeten overvaeren.
+    </content>
+        </page>
+      </matchTest>
